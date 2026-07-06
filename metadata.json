@@ -1,0 +1,6 @@
+{
+  "name": "Binance Trading Assistant",
+  "description": "A highly knowledgeable and interactive trading assistant featuring real-time Binance orderbook and ticker integration, liquidity tracking, and AI-powered chart analysis for optimized entries, stop loss, and take profit signals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
